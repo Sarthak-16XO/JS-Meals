@@ -1,0 +1,22 @@
+img{
+    border-radius: 8px !important;
+}
+
+
+p{
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+nav{
+    color: white;
+}
+
+li{
+    color: white;
+}
+
+a{
+    color: white !important;
+}
